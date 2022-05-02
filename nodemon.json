@@ -1,0 +1,7 @@
+{
+    "execMap": {
+        "js": "deno run",
+        "ts": "deno run server.ts"
+    },
+    "ext": "js,json,ts"
+}
